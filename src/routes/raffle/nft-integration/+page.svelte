@@ -7,7 +7,7 @@
 </script>
 
 <svelte:head>
-	<title>NFT Integration - Gaambl Raffle Documentation</title>
+	<title>NFT Integration - Gaambl Raafl Documentation</title>
 </svelte:head>
 
 <div class="max-w-4xl mx-auto">
@@ -18,7 +18,7 @@
 			<h1 class="text-4xl font-bold text-surface-900 dark:text-surface-100">NFT Integration</h1>
 		</div>
 		<p class="text-xl text-surface-600 dark:text-surface-400">
-			Supported NFT types and collection requirements for Gaambl Raffles
+			Supported NFT types and collection requirements for Gaambl Raafl
 		</p>
 	</div>
 

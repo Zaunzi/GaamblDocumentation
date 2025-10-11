@@ -80,45 +80,45 @@ const docsPages: SearchResult[] = [
     content: 'Automated bots monitor games, trigger drawings, and ensure fair play. Learn about the monitoring system.'
   },
   {
-    title: 'Raffle Overview',
+    title: 'Raafl Overview',
     description: 'How NFT raffles work on Gaambl',
     href: '/raffle/overview',
-    section: 'Gaambl Raffle',
-    content: 'Gaambl Raffle allows users to create NFT raffles where participants buy tickets for a chance to win valuable NFTs.'
+    section: 'Gaambl Raafl',
+    content: 'Gaambl Raafl allows users to create NFT raffles where participants buy tickets for a chance to win valuable NFTs.'
   },
   {
     title: 'Raffle States',
     description: 'Understanding raffle state management',
     href: '/raffle/raffle-states',
-    section: 'Gaambl Raffle',
+    section: 'Gaambl Raafl',
     content: 'Raffles progress through states: Open, Active, Drawing, Completed. Each state has specific rules and requirements.'
   },
   {
     title: 'Creating Raffles',
     description: 'Guide to creating NFT raffles',
     href: '/raffle/creating-raffles',
-    section: 'Gaambl Raffle',
+    section: 'Gaambl Raafl',
     content: 'Learn how to create NFT raffles, set ticket prices, choose NFTs, and configure raffle parameters.'
   },
   {
     title: 'Joining Raffles',
     description: 'How to participate in NFT raffles',
     href: '/raffle/joining-raffles',
-    section: 'Gaambl Raffle',
+    section: 'Gaambl Raafl',
     content: 'Browse available raffles, purchase tickets, and understand the raffle participation process.'
   },
   {
     title: 'NFT Integration',
     description: 'Supported NFT collections and standards',
     href: '/raffle/nft-integration',
-    section: 'Gaambl Raffle',
+    section: 'Gaambl Raafl',
     content: 'Gaambl supports ERC-721 and ERC-1155 NFT standards. Learn about supported collections and integration requirements.'
   },
   {
     title: 'Pricing Strategy',
     description: 'Optimal pricing for raffle tickets',
     href: '/raffle/pricing-strategy',
-    section: 'Gaambl Raffle',
+    section: 'Gaambl Raafl',
     content: 'Guidelines for setting ticket prices, understanding market dynamics, and maximizing raffle participation.'
   }
 ];

@@ -11,7 +11,7 @@
 </script>
 
 <svelte:head>
-	<title>Raffle States - Gaambl Raffle Documentation</title>
+	<title>Raffle States - Gaambl Raafl Documentation</title>
 </svelte:head>
 
 <div class="max-w-4xl mx-auto">
@@ -22,7 +22,7 @@
 			<h1 class="text-4xl font-bold text-surface-900 dark:text-surface-100">Raffle States</h1>
 		</div>
 		<p class="text-xl text-surface-600 dark:text-surface-400">
-			Understanding the lifecycle and state transitions of Gaambl Raffle games
+			Understanding the lifecycle and state transitions of Gaambl Raafl games
 		</p>
 	</div>
 

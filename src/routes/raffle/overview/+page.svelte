@@ -11,7 +11,7 @@
 </script>
 
 <svelte:head>
-	<title>Gaambl Raffle Overview - Documentation</title>
+	<title>Gaambl Raafl Overview - Documentation</title>
 </svelte:head>
 
 <div class="max-w-4xl mx-auto">
@@ -19,19 +19,19 @@
 	<div class="mb-8">
 		<div class="flex items-center mb-4">
 			<Ticket class="text-secondary-500 mr-3" size="32" />
-			<h1 class="text-4xl font-bold text-surface-900 dark:text-surface-100">Gaambl Raffle</h1>
+			<h1 class="text-4xl font-bold text-surface-900 dark:text-surface-100">Gaambl Raafl</h1>
 		</div>
 		<p class="text-xl text-surface-600 dark:text-surface-400">
 			NFT-based lottery where players compete to win valuable NFTs for a fraction of their market value
 		</p>
 	</div>
 
-	<!-- What is Gaambl Raffle -->
+	<!-- What is Gaambl Raafl -->
 	<section class="mb-12">
-		<h2 class="text-3xl font-bold text-surface-900 dark:text-surface-100 mb-6">What is Gaambl Raffle?</h2>
+		<h2 class="text-3xl font-bold text-surface-900 dark:text-surface-100 mb-6">What is Gaambl Raafl?</h2>
 		<div class="bg-surface-50 dark:bg-surface-900 rounded-lg p-6">
 			<p class="text-lg text-surface-700 dark:text-surface-300 mb-4">
-				Gaambl Raffle is an NFT-based lottery where players compete to win a specific NFT (ERC-721 or ERC-1155) 
+				Gaambl Raafl is an NFT-based lottery where players compete to win a specific NFT (ERC-721 or ERC-1155) 
 				for a fraction of its market value. NFT owners can monetize their assets while players get chances to 
 				win valuable NFTs at low entry costs.
 			</p>

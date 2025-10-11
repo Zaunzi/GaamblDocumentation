@@ -10,7 +10,7 @@
 </script>
 
 <svelte:head>
-	<title>Creating Raffles - Gaambl Raffle Documentation</title>
+	<title>Creating Raffles - Gaambl Raafl Documentation</title>
 </svelte:head>
 
 <div class="max-w-4xl mx-auto">

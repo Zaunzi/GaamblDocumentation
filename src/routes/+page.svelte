@@ -42,7 +42,7 @@
 		<div class="bg-surface-50 dark:bg-surface-900 rounded-lg p-6 mb-6">
 			<p class="text-lg text-surface-700 dark:text-surface-300 mb-4">
 				Gaambl is a decentralized gaming platform built on Base that offers two distinct lottery-style games: 
-				<strong>Gaambl Lotto</strong> and <strong>Gaambl Raffle</strong>. Both games use Pyth Network's Entropy service 
+				<strong>Gaambl Lotto</strong> and <strong>Gaambl Raafl</strong>. Both games use Pyth Network's Entropy service 
 				for provably fair randomness, ensuring transparent and tamper-proof outcomes.
 			</p>
 			
@@ -90,7 +90,7 @@
 						</code>
 					</div>
 					<div>
-						<p class="text-sm text-surface-600 dark:text-surface-400 mb-1">Gaambl Raffle</p>
+						<p class="text-sm text-surface-600 dark:text-surface-400 mb-1">Gaambl Raafl</p>
 						<code class="block bg-surface-100 dark:bg-surface-800 p-2 rounded text-sm font-mono break-all">
 							0xcB5428869b91b27798e2acD51cf7E63527F6F4D6
 						</code>
@@ -131,11 +131,11 @@
 				</a>
 			</div>
 
-			<!-- Gaambl Raffle -->
+			<!-- Gaambl Raafl -->
 			<div class="bg-surface-50 dark:bg-surface-900 rounded-lg p-6">
 				<div class="flex items-center mb-4">
 					<Ticket class="text-secondary-500 mr-3" size="24" />
-					<h3 class="text-xl font-semibold text-surface-900 dark:text-surface-100">Gaambl Raffle</h3>
+					<h3 class="text-xl font-semibold text-surface-900 dark:text-surface-100">Gaambl Raafl</h3>
 				</div>
 				<p class="text-surface-700 dark:text-surface-300 mb-4">
 					NFT-based lottery where players compete to win specific NFTs (ERC-721 or ERC-1155) for a fraction 
@@ -212,7 +212,7 @@
 				<div class="flex items-center mb-3">
 					<Ticket class="text-secondary-500 mr-3" size="20" />
 					<h3 class="font-semibold text-surface-900 dark:text-surface-100 group-hover:text-secondary-600 dark:group-hover:text-secondary-400">
-						Gaambl Raffle
+						Gaambl Raafl
 					</h3>
 				</div>
 				<p class="text-sm text-surface-600 dark:text-surface-400">

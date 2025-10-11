@@ -168,7 +168,7 @@
 							<div class="bg-surface-100 dark:bg-surface-800 rounded p-4">
 								<div class="flex items-center mb-2">
 									<Ticket class="text-secondary-500 mr-2" size="20" />
-									<h4 class="font-semibold text-surface-900 dark:text-surface-100">Gaambl Raffle</h4>
+									<h4 class="font-semibold text-surface-900 dark:text-surface-100">Gaambl Raafl</h4>
 								</div>
 								<p class="text-sm text-surface-700 dark:text-surface-300 mb-2">
 									NFT-based raffles where you can win valuable NFTs

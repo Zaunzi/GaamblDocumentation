@@ -80,15 +80,14 @@
     },
     {
       id: 'raffle',
-      title: 'Gaambl Raffle',
+      title: 'Gaambl Raafl',
       icon: IconTicket,
       items: [
         { href: '/raffle/overview', label: 'Overview', description: 'How raffles work' },
         { href: '/raffle/raffle-states', label: 'Raffle States', description: 'State management' },
         { href: '/raffle/creating-raffles', label: 'Creating Raffles', description: 'NFT raffle guide' },
         { href: '/raffle/joining-raffles', label: 'Joining Raffles', description: 'How to participate' },
-        { href: '/raffle/nft-integration', label: 'NFT Integration', description: 'Supported NFTs' },
-        { href: '/raffle/pricing-strategy', label: 'Pricing Strategy', description: 'Optimal pricing' }
+        { href: '/raffle/nft-integration', label: 'NFT Integration', description: 'Supported NFTs' }
       ]
     }
   ];

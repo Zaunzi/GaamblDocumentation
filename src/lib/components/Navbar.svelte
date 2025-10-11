@@ -79,7 +79,7 @@
 			<div class="flex items-center space-x-2 md:space-x-4">
 				<!-- Play Button -->
 				<a
-					href="https://app.gaambl.fun/l"
+					href="https://app.gaambl.fun/"
 					target="_blank"
 					rel="noopener noreferrer"
 					class="btn btn-sm bg-gradient-to-r from-secondary-500 to-secondary-600 hover:from-secondary-600 hover:to-secondary-700 text-white shadow-lg hover:shadow-xl transition-all duration-300 flex items-center gap-2 border-0"
@@ -118,7 +118,7 @@
 			<div class="md:hidden pb-4 mobile-menu">
 				<div class="space-y-2">
 					<a
-						href="https://app.gaambl.fun/l"
+						href="https://app.gaambl.fun/"
 						target="_blank"
 						rel="noopener noreferrer"
 						class="w-full flex items-center gap-3 px-4 py-3 border border-secondary-300 dark:border-secondary-600 rounded-lg bg-gradient-to-r from-secondary-500 to-secondary-600 text-white hover:from-secondary-600 hover:to-secondary-700 transition-colors shadow-lg"

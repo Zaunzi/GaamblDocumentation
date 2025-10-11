@@ -191,7 +191,7 @@
 			← Prize Distribution
 		</a>
 		<a href="/raffle/overview" class="text-primary-600 dark:text-primary-400 hover:text-primary-800 dark:hover:text-primary-200">
-			Gaambl Raffle →
+			Gaambl Raafl →
 		</a>
 	</div>
 </div>

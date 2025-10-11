@@ -39,7 +39,7 @@
 			<h1 class="text-4xl font-bold text-surface-900 dark:text-surface-100">Contract Addresses</h1>
 		</div>
 		<p class="text-xl text-surface-600 dark:text-surface-400">
-			Deployed contract addresses for Gaambl Lotto and Raffle on Base network
+			Deployed contract addresses for Gaambl Lotto and Raafl on Base network
 		</p>
 	</div>
 
@@ -87,11 +87,11 @@
 					</code>
 				</div>
 
-				<!-- Gaambl Raffle -->
+				<!-- Gaambl Raafl -->
 				<div class="border border-surface-200 dark:border-surface-700 rounded-lg p-4">
 					<div class="flex items-center justify-between mb-3">
 						<div>
-							<h3 class="text-lg font-semibold text-surface-900 dark:text-surface-100">Gaambl Raffle</h3>
+							<h3 class="text-lg font-semibold text-surface-900 dark:text-surface-100">Gaambl Raafl</h3>
 							<p class="text-sm text-surface-600 dark:text-surface-400">NFT-based raffle contract</p>
 						</div>
 						<div class="flex items-center space-x-2">

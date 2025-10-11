@@ -8,7 +8,7 @@
 </script>
 
 <svelte:head>
-	<title>Joining Raffles - Gaambl Raffle Documentation</title>
+	<title>Joining Raffles - Gaambl Raafl Documentation</title>
 </svelte:head>
 
 <div class="max-w-4xl mx-auto">
@@ -19,7 +19,7 @@
 			<h1 class="text-4xl font-bold text-surface-900 dark:text-surface-100">Joining Raffles</h1>
 		</div>
 		<p class="text-xl text-surface-600 dark:text-surface-400">
-			How to participate in existing Gaambl Raffle games
+			How to participate in existing Gaambl Raafl games
 		</p>
 	</div>
 

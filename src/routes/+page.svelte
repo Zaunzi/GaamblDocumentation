@@ -41,8 +41,8 @@
 		<h2 class="text-3xl font-bold text-surface-900 dark:text-surface-100 mb-6">Overview</h2>
 		<div class="bg-surface-50 dark:bg-surface-900 rounded-lg p-6 mb-6">
 			<p class="text-lg text-surface-700 dark:text-surface-300 mb-4">
-				Gaambl is a decentralized gaming platform built on Base that offers two distinct lottery-style games: 
-				<strong>Gaambl Lotto</strong> and <strong>Gaambl Raafl</strong>. Both games use Pyth Network's Entropy service 
+				Gaambl is a decentralized gaming platform built on Base that offers distinct lottery-style games: 
+				<strong>Gaambl Lotto</strong>, <strong>Gaambl Raafl</strong>, and more to come. All games use Pyth Network's Entropy service 
 				for provably fair randomness, ensuring transparent and tamper-proof outcomes.
 			</p>
 			

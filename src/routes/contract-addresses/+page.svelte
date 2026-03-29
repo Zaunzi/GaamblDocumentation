@@ -18,7 +18,7 @@
 	const contracts = {
 		sepolia: {
 			lotto: '0x6ff4f11e39B7AC86195B39fbd20B4A54B67932F1',
-			raffle: '0x47754ee34E56f8046488107Bd4419A3564bd9e63'
+			raffle: '0x5B9043f4ac926BB131F6335CdEF8121Be1f3efd9'
 		},
 		mainnet: {
 			lotto: 'Coming Soon',
@@ -209,7 +209,7 @@
 					<div class="bg-surface-100 dark:bg-surface-800 rounded p-3">
 						<code class="text-sm font-mono text-surface-800 dark:text-surface-200">
 							const LOTTO_ADDRESS = "0x6ff4f11e39B7AC86195B39fbd20B4A54B67932F1";<br>
-							const RAFFLE_ADDRESS = "0x47754ee34E56f8046488107Bd4419A3564bd9e63";
+							const RAFFLE_ADDRESS = "0x5B9043f4ac926BB131F6335CdEF8121Be1f3efd9";
 						</code>
 					</div>
 				</div>
@@ -219,7 +219,7 @@
 					<div class="bg-surface-100 dark:bg-surface-800 rounded p-3">
 						<code class="text-sm font-mono text-surface-800 dark:text-surface-200">
 							address constant LOTTO_ADDRESS = 0x6ff4f11e39B7AC86195B39fbd20B4A54B67932F1;<br>
-							address constant RAFFLE_ADDRESS = 0x47754ee34E56f8046488107Bd4419A3564bd9e63;
+							address constant RAFFLE_ADDRESS = 0x5B9043f4ac926BB131F6335CdEF8121Be1f3efd9;
 						</code>
 					</div>
 				</div>

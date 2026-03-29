@@ -17,8 +17,8 @@
 
 	const contracts = {
 		sepolia: {
-			lotto: '0xC8B0d87C551C6De5158Ef96d5e06F76D2A81E541',
-			raffle: '0xcB5428869b91b27798e2acD51cf7E63527F6F4D6'
+			lotto: '0x6ff4f11e39B7AC86195B39fbd20B4A54B67932F1',
+			raffle: '0x47754ee34E56f8046488107Bd4419A3564bd9e63'
 		},
 		mainnet: {
 			lotto: 'Coming Soon',
@@ -208,8 +208,8 @@
 					<h3 class="text-lg font-semibold text-surface-900 dark:text-surface-100 mb-2">JavaScript/TypeScript</h3>
 					<div class="bg-surface-100 dark:bg-surface-800 rounded p-3">
 						<code class="text-sm font-mono text-surface-800 dark:text-surface-200">
-							const LOTTO_ADDRESS = "0xC8B0d87C551C6De5158Ef96d5e06F76D2A81E541";<br>
-							const RAFFLE_ADDRESS = "0xcB5428869b91b27798e2acD51cf7E63527F6F4D6";
+							const LOTTO_ADDRESS = "0x6ff4f11e39B7AC86195B39fbd20B4A54B67932F1";<br>
+							const RAFFLE_ADDRESS = "0x47754ee34E56f8046488107Bd4419A3564bd9e63";
 						</code>
 					</div>
 				</div>
@@ -218,8 +218,8 @@
 					<h3 class="text-lg font-semibold text-surface-900 dark:text-surface-100 mb-2">Solidity</h3>
 					<div class="bg-surface-100 dark:bg-surface-800 rounded p-3">
 						<code class="text-sm font-mono text-surface-800 dark:text-surface-200">
-							address constant LOTTO_ADDRESS = 0xC8B0d87C551C6De5158Ef96d5e06F76D2A81E541;<br>
-							address constant RAFFLE_ADDRESS = 0xcB5428869b91b27798e2acD51cf7E63527F6F4D6;
+							address constant LOTTO_ADDRESS = 0x6ff4f11e39B7AC86195B39fbd20B4A54B67932F1;<br>
+							address constant RAFFLE_ADDRESS = 0x47754ee34E56f8046488107Bd4419A3564bd9e63;
 						</code>
 					</div>
 				</div>

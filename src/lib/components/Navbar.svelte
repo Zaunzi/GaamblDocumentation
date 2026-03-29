@@ -79,7 +79,7 @@
 			<div class="flex items-center space-x-2 md:space-x-4">
 				<!-- Play Button -->
 				<a
-					href="https://app.gaambl.fun/"
+					href="https://www.gaambl.fun/"
 					target="_blank"
 					rel="noopener noreferrer"
 					class="btn btn-sm bg-gradient-to-r from-secondary-500 to-secondary-600 hover:from-secondary-600 hover:to-secondary-700 text-white shadow-lg hover:shadow-xl transition-all duration-300 flex items-center gap-2 border-0"
